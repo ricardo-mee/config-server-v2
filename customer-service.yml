@@ -1,0 +1,10 @@
+server.port=8081
+
+
+customer.name=ismail
+
+spring.application.name=customer-service
+eureka.client.enabled=true
+
+
+eureka.client.service-url.defaultZone=http://localhost:8761/eureka
